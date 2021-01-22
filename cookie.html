@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Cookie Report | CGV</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <meta name="robots" content="noindex">
+  <meta name="googlebot" content="noindex">
+    <!-- Favicons -->
+    <link href="img/logo/favicon/favicon-32x32.png" rel="icon">
+    <link href="img/logo/favicon/apple-touch-icon.png" rel="apple-touch-icon">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="d17af46b-afdd-4665-8862-2ca604c2cadc" data-blockingmode="auto" type="text/javascript"></script>
+</head>
+<body>
+    <script id="CookieDeclaration" src="https://consent.cookiebot.com/d17af46b-afdd-4665-8862-2ca604c2cadc/cd.js" type="text/javascript" async></script>
+</body>
+<script>
+    var message="Right Click Disabled!";
+  
+  function clickIE4(){
+  if (event.button==2){
+  alert(message);
+  return false;
+   }
+  }
+  
+  function clickNS4(e){
+  if (document.layers||document.getElementById&&!document.all){
+  if (e.which==2||e.which==3){
+  alert(message);
+  return false;
+  }
+  }
+  }
+  
+  if (document.layers){
+  document.captureEvents(Event.MOUSEDOWN);
+  document.onmousedown=clickNS4;
+  }
+  else if (document.all&&!document.getElementById){
+  document.onmousedown=clickIE4;
+  }
+  
+  document.oncontextmenu=new Function("alert(message);return false")
+  </script>
+</html>
