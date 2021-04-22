@@ -56,15 +56,21 @@ We highly recommend to read through the:<br>
 This project is licensed under the GPL-3.0 License. See the [LICENSE](./LICENSE) file for details
 
 
-
 ## For the Future 
 If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/vigneshshettyin/Online-Certificate-Generation-Verification/pulls).
 
-## Project Maintainer 🚧
+## Show some ❤️ by starring the repository
 
-<table>
-  <tr>
-    <td align="center"><a href="http://vigneshshetty.in"><img src="https://avatars.githubusercontent.com/u/77713888?s=460&u=28a461a4ae6826d8daa5074823b7753a0385e2fa&v=4" width="100px;" alt="Vignesh Shetty"/><br /><sub><b>Vignesh Shetty</b></sub></a></td>
-  </tr>
-</table>
+<table><tr><td valign="top" width="50%">
 
+
+[![Forkers repo roster for @vigneshshettyin/Flask-Generate-Certificate](https://reporoster.com/forks/vigneshshettyin/Online-Certificate-Generation-Verification)](https://github.com/vigneshshettyin/Online-Certificate-Generation-Verification/network/members)
+
+
+</td><td valign="top" width="50%">
+
+
+[![Stargazers repo roster for @vigneshshettyin/Flask-Generate-Certificate](https://reporoster.com/stars/vigneshshettyin/Online-Certificate-Generation-Verification)](https://github.com/vigneshshettyin/Online-Certificate-Generation-Verification/stargazers)
+
+
+</td></tr></table>  
