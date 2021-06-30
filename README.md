@@ -31,14 +31,7 @@ $ cd Online-Certificate-Generation-Verification
 #Start development server & open 
  http://localhost/(location)
 ```
-## Live Deployment 📦 
 
- Click Here to view the deployment!
- 
- [![Deploy](https://img.icons8.com/color/48/000000/launched-rocket--v2.png)](http://cgv.42web.io/)
- 
- Dashboard Credentials: Email: cgv@email.com<br>Password: cgv
- 
 When you are done with the setup, you should host your website online.
 We highly recommend to read through the:<br>
 - [Deploying on AWS EC-2](https://medium.com/@maskaravivek/web-hosting-using-php-and-mysql-on-aws-95bd5df0bd75).<br>
